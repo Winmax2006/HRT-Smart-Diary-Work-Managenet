@@ -1,0 +1,10 @@
+{
+  "name": "Smart School Daily Management AI",
+  "description": "ระบบบริหารจัดการสถิติโรงเรียนรายวันอัจฉริยะ พร้อมระบบวิเคราะห์ข้อมูลด้วย AI (Student Attendance, Lunch Management, and Insights)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered data analysis",
+    "Student attendance tracking",
+    "Lunch statistics management"
+  ]
+}
